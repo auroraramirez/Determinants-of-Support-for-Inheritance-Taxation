@@ -1,0 +1,7 @@
+How to replicate the results
+1) Run boruta.R in R (Set working directory to source file location)
+2) Run plots.R in R (Set working directory to source file location)
+3) Run tables.do in STATA (Set working directory to source file location)
+
+The plots will be saved in the "plots" folder and the tables in "tables".
+All packages needed to execute the R scripts are included in the header of the script.
